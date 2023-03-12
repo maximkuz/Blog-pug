@@ -1,0 +1,16 @@
+.share-icons{
+    display: flex;
+    align-items: center;
+}
+.share-icons__item{
+    margin-right: 25px;
+    transition: 0.2s;
+
+    &:last-child{
+        margin-right: 0;
+    }
+
+    &:hover {
+        scale: 120%;
+    }
+}

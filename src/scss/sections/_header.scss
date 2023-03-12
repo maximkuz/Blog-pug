@@ -1,0 +1,23 @@
+.header {
+    padding: 50px 60px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(158, 158, 158);
+    align-items: center;
+}
+.header__social {
+
+}
+
+.header__logo {
+
+}
+
+.header__search {
+    display: flex;
+    align-items: center;
+}
+
+.header__search-icon {
+    margin-right: 45px;
+}

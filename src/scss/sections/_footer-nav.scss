@@ -1,0 +1,18 @@
+.footer-nav {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.25;
+    color: #8E9399;
+}
+
+.footer-nav__item {
+    margin-bottom: 15px;
+}
+
+.footer-nav__link {
+    color: #8E9399;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
